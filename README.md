@@ -6,7 +6,7 @@ This Power BI project aims to analyze and visualize sales data to gain insights 
 
 ## Data Source
 
-The data used for this project is assumin a CSV format and contains relevant sales information, such as product details, sales figures, dates, customer information, and region.
+The data used for this project is Sales data in CSV format and contains relevant sales information, such as product details, sales figures, dates, customer information, and region.
 
 ## Power BI Version
 
